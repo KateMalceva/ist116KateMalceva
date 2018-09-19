@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub-ist116KateMalceva.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub-ist116KateMalceva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ist116KateMalceva.iml" filepath="$PROJECT_DIR$/ist116KateMalceva.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ist116KateMalceva_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ist116KateMalceva_main.iml" group="ist116KateMalceva" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ist116KateMalceva_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ist116KateMalceva_test.iml" group="ist116KateMalceva" />
+    </modules>
+  </component>
+</project>
