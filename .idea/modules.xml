@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/GitHub-ist116KateMalceva.iml" filepath="$PROJECT_DIR$/.idea/modules/GitHub-ist116KateMalceva.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ist116KateMalceva.iml" filepath="$PROJECT_DIR$/ist116KateMalceva.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ist116KateMalceva_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ist116KateMalceva_main.iml" group="ist116KateMalceva" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ist116KateMalceva_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ist116KateMalceva_test.iml" group="ist116KateMalceva" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject/mainProject.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject/mainProject.iml" group="mainProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject/mainProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject/mainProject_main.iml" group="mainProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mainProject/mainProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mainProject/mainProject_test.iml" group="mainProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_two.iml" filepath="$PROJECT_DIR$/.idea/modules/module_two.iml" group="module_two" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_two/module_two_main.iml" filepath="$PROJECT_DIR$/.idea/modules/module_two/module_two_main.iml" group="module_two" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module_two/module_two_test.iml" filepath="$PROJECT_DIR$/.idea/modules/module_two/module_two_test.iml" group="module_two" />
     </modules>
   </component>
 </project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="1_main" target="1.8" />
+      <module name="1_test" target="1.8" />
+      <module name="ist116KateMalceva_main" target="1.8" />
+      <module name="ist116KateMalceva_test" target="1.8" />
+      <module name="mainProject_main" target="1.8" />
+      <module name="mainProject_test" target="1.8" />
+      <module name="module_two_main" target="1.8" />
+      <module name="module_two_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
